@@ -4,18 +4,18 @@ const months = [
 ];
 
 const birthdays = {
-    "Enero": ["19: Anahi", "28: Angi"],
-    "Febrero": ["22: Juli"],
-    "Marzo": ["20: Kiara","24: Delfi"],
-    "Abril": ["2: Lucas"],
-    "Mayo": ["5: Mari"],
+    "Enero": ["19: Anahi ♑", "28: Angi ♒"],
+    "Febrero": ["22: Juli ♒"],
+    "Marzo": ["20: Kiara ♓","24: Delfi ♈"],
+    "Abril": ["2: Lucas ♈"],
+    "Mayo": ["5: Mari ♉"],
     "Junio": ["*: ---"],
-    "Julio": ["5:Ale(Rubia)","7: Pili"],
-    "Agosto": ["3: Tuly"],
+    "Julio": ["5: Ale(Rubia) ♋","7: Pili ♋"],
+    "Agosto": ["3: Tuly ♌"],
     "Septiembre": ["*: ----"],
     "Octubre": ["*: -----"],
-    "Noviembre": ["21: Agos", "28:Luci"],
-    "Diciembre": ["6: Ale Ch"]
+    "Noviembre": ["21: Agos ♏", "28: Luci ♐"],
+    "Diciembre": ["6: Ale Ch ♐"]
 };
 
 window.addEventListener('DOMContentLoaded', (event) => {
