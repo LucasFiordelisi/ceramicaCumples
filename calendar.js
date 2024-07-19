@@ -6,7 +6,7 @@ const months = [
 const birthdays = {
     "Enero": ["19: Anahi ♑", "28: Angi ♒"],
     "Febrero": ["22: Juli ♒"],
-    "Marzo": ["20: Kiara ♓","24: Delfi ♈"],
+    "Marzo": ["20: Chiara ♓","24: Delfi ♈"],
     "Abril": ["2: Lucas ♈"],
     "Mayo": ["5: Mari ♉"],
     "Junio": ["*: ---"],
